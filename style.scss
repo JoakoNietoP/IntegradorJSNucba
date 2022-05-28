@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+//footer
+footer{
+    background: black;
+    text-align: center;
+    height: auto;
+    font-size: 1em;
+    justify-content: center;
+    color: white;
+    a {
+        text-decoration: none;
+        color: rgb(143, 22, 180);
+    }
+    a:hover{
+        color: grey;
+    }
+}
