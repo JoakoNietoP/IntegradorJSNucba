@@ -6,6 +6,16 @@
 nav {
   background: #573994;
   color: black;
+  font-size: 1.2em;
+}
+
+nav .navbar-brand {
+  font-size: 1.4em;
+}
+
+nav a {
+  text-decoration: none;
+  color: black;
 }
 
 form {
@@ -15,6 +25,14 @@ form {
 
 form label {
   display: block;
+}
+
+.d-flex {
+  background-color: aliceblue;
+}
+
+.d-flex button:hover {
+  background-color: gray;
 }
 
 .productos {
